@@ -52,7 +52,7 @@ Before running the project, replace the following placeholders in the code:
 [ThingSpeak Graph](results/thingspeak_graph.png)
 
  🧪 Wokwi Simulation
- [Simulation](simulation/Wokwi_Simulation.png)
+ [Simulation](simulation/Wowki_Simulation.png)
 [Live Wokwi Simulation](https://wokwi.com/projects/460585295453155329)
 
 🔮 FUTURE SCOPE
