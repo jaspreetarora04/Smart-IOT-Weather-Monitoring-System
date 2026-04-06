@@ -49,10 +49,11 @@ Before running the project, replace the following placeholders in the code:
 ![Blynk Dashboard](results/blynk_dashboard.png)
 
  ☁️ ThingSpeak Graph
-![ThingSpeak Graph](results/thingspeak_graph.png)
+[ThingSpeak Graph](results/thingspeak_graph.png)
 
  🧪 Wokwi Simulation
-![Wokwi Simulation](results/wokwi.png)
+ [Simulation](simulation/wokwi.png)
+[Live Wokwi Simulation](https://wokwi.com/projects/305569599398609473)
 
 🔮 FUTURE SCOPE
 
