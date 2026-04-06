@@ -1,6 +1,6 @@
 # Smart IOT Weather Monitoring System
 
-⚙️OVERVIEW
+⚙️OVERVIEW 
 This project is an intelligent IoT-based weather monitoring system built using ESP32 and environmental sensors such as DHT22 (temperature & humidity) and BMP280 (pressure). The system collects real-time environmental data and send it over WiFi to cloud platforms for monitoring and analysis.
 Blynk IoT is used to create a live dashboard for real-time visualization and alerts, while ThingSpeak is used for storing data and analyzing trends through graphs. The circuit is validated using Wokwi simulation and designed using EasyEDA for real-world hardware implementation.
 
@@ -39,6 +39,7 @@ Before running the project, replace the following placeholders in the code:
 * `BLYNK_AUTH_TOKEN`
 * WiFi credentials (`SSID`, `Password`)
 * ThingSpeak API Key
+  
  ⚠️ Note: Sensitive information is not included in this repository for security reasons.
 
 📊 RESULTS
