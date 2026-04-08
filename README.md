@@ -3,9 +3,9 @@
 ⚙️OVERVIEW 
 
 This project is an intelligent IoT-based weather monitoring system built using ESP32 and environmental sensors such as DHT22 (temperature & humidity) and BMP280 (pressure). The system collects real-time environmental data and send it over WiFi to cloud platforms for monitoring and analysis.
-Blynk IoT is used to create a live dashboard for real-time visualization and alerts, while ThingSpeak is used for storing data and analyzing trends through graphs. The circuit is validated using Wokwi simulation and designed using EasyEDA for real-world hardware implementation.---
----
+Blynk IoT is used to create a live dashboard for real-time visualization and alerts, while ThingSpeak is used for storing data and analyzing trends through graphs. The circuit is validated using Wokwi simulation and designed using EasyEDA for real-world hardware implementation.
 
+---
 
 ⚙️FEATURES
 * 🌡️ Real-time monitoring of temperature, humidity, and pressure
@@ -15,7 +15,8 @@ Blynk IoT is used to create a live dashboard for real-time visualization and ale
 * 🧠 Basic decision logic (e.g., rain likelihood detection)
 * ⚠️ Error handling for invalid sensor readings
 * 🔌 Simulation using Wokwi
-* 🛠️ Circuit design using EasyEDA---
+* 🛠️ Circuit design using EasyEDA
+  
    ---
 
 ⚙️TECH STACK
@@ -25,7 +26,8 @@ Blynk IoT is used to create a live dashboard for real-time visualization and ale
 * IoT Platform: Blynk IoT,ThingSpeak
 * Programming: Arduino IDE (Embedded C)
 * Simulation: Wokwi
-* Circuit Design: EasyEDA---
+* Circuit Design: EasyEDA
+  
   ---
 
 ⚙️SYSTEM WORKING
@@ -34,7 +36,8 @@ Blynk IoT is used to create a live dashboard for real-time visualization and ale
 3. Data is transmitted via WiFi to:
    * Blynk IoT → Real-time dashboard & alerts
    * ThingSpeak→ Data storage & graph visualization
-4. Alerts are triggered when values exceed predefined thresholds.---
+4. Alerts are triggered when values exceed predefined thresholds.
+
    ---
 
 ⚙️SETUP INSTRUCTIONS
@@ -46,9 +49,9 @@ Before running the project, replace the following placeholders in the code:
 * WiFi credentials (`SSID`, `Password`)
 * ThingSpeak API Key
   
- ⚠️ Note: Sensitive information is not included in this repository for security reasons.---
+ ⚠️ Note: Sensitive information is not included in this repository for security reasons.
+ 
  ---
-
 
 📊 RESULTS
  📱 Blynk Dashboard
@@ -59,7 +62,8 @@ Before running the project, replace the following placeholders in the code:
 
  🧪 Wokwi Simulation
  [Simulation](simulation/Wowki_Simulation.png)
-[Live Wokwi Simulation](https://wokwi.com/projects/460585295453155329)---
+[Live Wokwi Simulation](https://wokwi.com/projects/460585295453155329)
+
 ---
 
 🔮 FUTURE SCOPE
@@ -67,9 +71,9 @@ Before running the project, replace the following placeholders in the code:
 * AI/ML-based weather prediction
 * Mobile app enhancement
 * Integration with smart agriculture systems
-* Additional sensors (air quality, wind speed)---
+* Additional sensors (air quality, wind speed)
+  
   ---
-
 
  Author
 
