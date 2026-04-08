@@ -25,6 +25,7 @@ Blynk IoT is used to create a live dashboard for real-time visualization and ale
 * Programming: Arduino IDE (Embedded C)
 * Simulation: Wokwi
 * Circuit Design: EasyEDA
+  --
 
 ⚙️SYSTEM WORKING
 1. Sensors collect environmental data (temperature, humidity, pressure, rain).
@@ -33,6 +34,7 @@ Blynk IoT is used to create a live dashboard for real-time visualization and ale
    * Blynk IoT → Real-time dashboard & alerts
    * ThingSpeak→ Data storage & graph visualization
 4. Alerts are triggered when values exceed predefined thresholds.
+   --
 
 ⚙️SETUP INSTRUCTIONS
 
@@ -44,6 +46,7 @@ Before running the project, replace the following placeholders in the code:
 * ThingSpeak API Key
   
  ⚠️ Note: Sensitive information is not included in this repository for security reasons.
+ --
 
 
 📊 RESULTS
