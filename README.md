@@ -59,7 +59,7 @@ Before running the project, replace the following placeholders in the code:
 
  ☁️ ThingSpeak Graph
 [ThingSpeak Graph](results/Thingspeak_graph.png)
-[live graph simulation](https://thingspeak.mathworks.com/channels/3336590)
+[live graph simulation](https://thingspeak.mathworks.com/channels/3336590/public)
 
  🧪 Wokwi Simulation
  [Simulation](simulation/Wowki_Simulation.png)
