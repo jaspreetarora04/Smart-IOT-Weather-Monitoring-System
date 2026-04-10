@@ -58,7 +58,7 @@ Before running the project, replace the following placeholders in the code:
 ![Blynk Dashboard](results/blynk_dashboard.png)
 
  ☁️ ThingSpeak Graph
-[ThingSpeak Graph](results/thingspeak_output.png)
+[ThingSpeak Graph](results/Thingspeak_graph.png)
 [live graph simulation](https://thingspeak.mathworks.com/channels/3336590)
 
  🧪 Wokwi Simulation
