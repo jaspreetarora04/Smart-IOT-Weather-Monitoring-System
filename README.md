@@ -30,6 +30,11 @@ Blynk IoT is used to create a live dashboard for real-time visualization and ale
   
   ---
 
+  ⚙️CIRCUIT DIAGRAM AND Hardware SETUP
+  [EasyEda Schematic](circuit/Schematic_EasyEDa.png)
+
+  ---
+
 ⚙️SYSTEM WORKING
 1. Sensors collect environmental data (temperature, humidity, pressure, rain).
 2. ESP32 processes the data and applies basic decision logic.
