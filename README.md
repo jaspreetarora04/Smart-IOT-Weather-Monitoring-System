@@ -31,7 +31,7 @@ Blynk IoT is used to create a live dashboard for real-time visualization and ale
   ---
 
   ⚙️CIRCUIT DIAGRAM AND Hardware SETUP
-  [EasyEda Schematic](circuit/Schematic_EasyEDa.png)
+  [EasyEda Schematic](circuit/Schematic_EasyEda.png)
 
   ---
 
