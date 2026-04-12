@@ -1,13 +1,13 @@
 # Smart IOT Weather Monitoring System
 
-##⚙️ OVERVIEW 
+⚙️ OVERVIEW 
 
-This project is an ###intelligent IoT-based weather monitoring system### built using ESP32 and environmental sensors such as DHT22 (temperature & humidity) and BMP280 (pressure). The system collects real-time environmental data and send it over WiFi to cloud platforms for monitoring and analysis.
+This project is an intelligent IoT-based weather monitoring system built using ESP32 and environmental sensors such as DHT22 (temperature & humidity) and BMP280 (pressure). The system collects real-time environmental data and send it over WiFi to cloud platforms for monitoring and analysis.
 Blynk IoT is used to create a live dashboard for real-time visualization and alerts, while ThingSpeak is used for storing data and analyzing trends through graphs. The circuit is validated using Wokwi simulation and designed using EasyEDA for real-world hardware implementation.
 
 ---
 
-⚙️##FEATURES
+⚙️FEATURES
 * 🌡️ Real-time monitoring of temperature, humidity, and pressure
 * 📱 Live dashboard using Blynk IoT
 * ☁️ Cloud data storage and visualization using ThingSpeak
@@ -19,7 +19,7 @@ Blynk IoT is used to create a live dashboard for real-time visualization and ale
   
    ---
 
-⚙️##TECH STACK
+⚙️TECH STACK
 
 * Microcontroller: ESP32
 * Sensors:DHT22, BMP280, Rain Sensor
@@ -30,12 +30,12 @@ Blynk IoT is used to create a live dashboard for real-time visualization and ale
   
   ---
 
-⚙️##CIRCUIT DIAGRAM AND Hardware SETUP
+⚙️CIRCUIT DIAGRAM AND Hardware SETUP
   [EasyEda Schematic](circuit/Schematic_EasyEda.png)
 
   ---
 
-⚙️##SYSTEM WORKING
+⚙️SYSTEM WORKING
 1. Sensors collect environmental data (temperature, humidity, pressure, rain).
 2. ESP32 processes the data and applies basic decision logic.
 3. Data is transmitted via WiFi to:
@@ -45,7 +45,7 @@ Blynk IoT is used to create a live dashboard for real-time visualization and ale
 
    ---
 
-⚙️##SETUP INSTRUCTIONS
+⚙️SETUP INSTRUCTIONS
 
 Before running the project, replace the following placeholders in the code:
 
@@ -58,7 +58,7 @@ Before running the project, replace the following placeholders in the code:
  
  ---
 
-📊 ##RESULTS
+📊 RESULTS
  📱 Blynk Dashboard
 ![Blynk Dashboard](results/blynk_dashboard.png)
 
@@ -71,7 +71,7 @@ Before running the project, replace the following placeholders in the code:
 
 ---
 
-🔮 ##FUTURE SCOPE
+🔮 FUTURE SCOPE
 
 * AI/ML-based weather prediction
 * Mobile app enhancement
@@ -80,7 +80,7 @@ Before running the project, replace the following placeholders in the code:
   
   ---
 
-🧪 ## Author
+🧪 Author
 
 * Jaspreet
 * B.Tech ECE (Final Year)
