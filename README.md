@@ -8,14 +8,14 @@ Blynk IoT is used to create a live dashboard for real-time visualization and ale
 ---
 
 ⚙️FEATURES
-* 🌡️ Real-time monitoring of temperature, humidity, and pressure
-* 📱 Live dashboard using Blynk IoT
-* ☁️ Cloud data storage and visualization using ThingSpeak
-* 🚨 Alert system for abnormal conditions (high temperature, humidity)
-* 🧠 Basic decision logic (e.g., rain likelihood detection)
-* ⚠️ Error handling for invalid sensor readings
-* 🔌 Simulation using Wokwi
-* 🛠️ Circuit design using EasyEDA
+* Real-time monitoring of temperature, humidity, and pressure
+* Live dashboard using Blynk IoT
+* Cloud data storage and visualization using ThingSpeak
+* Alert system for abnormal conditions (high temperature, humidity)
+* Basic decision logic (e.g., rain likelihood detection)
+* Error handling for invalid sensor readings
+* Simulation using Wokwi
+* Circuit design using EasyEDA
   
    ---
 
@@ -59,8 +59,6 @@ Before running the project, replace the following placeholders in the code:
  ---
 
 📊 RESULTS
- 📱 Blynk Dashboard
-![Blynk Dashboard](results/blynk_dashboard.png)
 
  ☁️ ThingSpeak Graph
 [ThingSpeak Graph](results/Thingspeak_graph.png)
